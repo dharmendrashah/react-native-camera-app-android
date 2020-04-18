@@ -1,11 +1,7 @@
 # React-Native camera app
-
 <P>This is my set up and under this setup the application is running well </p>
-
 <ol>
-
 <li>System:</li>
-
 <code>
 <ul>
     <li>
@@ -17,8 +13,6 @@
     <li>
         Memory: 1.32 GB / 7.89 GB<br/>
     </li>
-   
-  
 </ul>
       </code>
   <li>Binaries:</li>
@@ -39,10 +33,6 @@ Yarn: 1.21.1 - C:\Program Files (x86)\Yarn\bin\yarn.CMD<br>
     <li>
      C:\Users\hp\Downloads\Compressed\watchman\windows\bin\watchman.EXE<br/>
     </li>
-    
-   
-   
-    
   </ul>
   </code>
   <li>SDKs:</li>
@@ -52,7 +42,6 @@ Yarn: 1.21.1 - C:\Program Files (x86)\Yarn\bin\yarn.CMD<br>
     Android SDK: Not Found<br>
   </code>
 </li>
-     
 </ul>
   <li>IDEs:</li>
   <ul>
@@ -60,7 +49,6 @@ Yarn: 1.21.1 - C:\Program Files (x86)\Yarn\bin\yarn.CMD<br>
    <li>
      Android Studio: Version  3.6.0.0 AI-192.7142.36.36.6308749<br>
    </li>
-  
 </code>
   </ul>
  <li>Languages:</li>
@@ -74,7 +62,6 @@ Python: 3.8.2 - /c/Python38/python <br>
    </li>
     </code>
  </ul>
-  
   <li>npmPackages:</li>
     <code>
 <ul>
@@ -98,7 +85,6 @@ Python: 3.8.2 - /c/Python38/python <br>
 </code>
   </li>
   </ul>
-
 </ul>
 # Note
 <p>Please specify your sdk path in <code>android/local.properties</code> with your sdk path in <code>sdk.dir</code> var</p>
