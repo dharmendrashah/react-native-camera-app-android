@@ -86,5 +86,5 @@ Python: 3.8.2 - /c/Python38/python <br>
   </li>
   </ul>
 </ul>
-# Note
+<h1>Note</h1>
 <p>Please specify your sdk path in <code>android/local.properties</code> with your sdk path in <code>sdk.dir</code> var</p>
